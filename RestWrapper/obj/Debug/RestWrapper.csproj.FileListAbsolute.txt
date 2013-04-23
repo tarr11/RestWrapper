@@ -1,0 +1,9 @@
+c:\dev\RestWrapper\RestWrapper\bin\Debug\RestWrapper.dll
+c:\dev\RestWrapper\RestWrapper\bin\Debug\RestWrapper.pdb
+c:\dev\RestWrapper\RestWrapper\bin\Debug\Newtonsoft.Json.dll
+c:\dev\RestWrapper\RestWrapper\bin\Debug\RestSharp.dll
+c:\dev\RestWrapper\RestWrapper\bin\Debug\Newtonsoft.Json.xml
+c:\dev\RestWrapper\RestWrapper\bin\Debug\RestSharp.xml
+c:\dev\RestWrapper\RestWrapper\obj\Debug\RestWrapper.csprojResolveAssemblyReference.cache
+c:\dev\RestWrapper\RestWrapper\obj\Debug\RestWrapper.dll
+c:\dev\RestWrapper\RestWrapper\obj\Debug\RestWrapper.pdb
